@@ -14,7 +14,7 @@
     "azure-storage": "^2.10.2",
     "chai-as-promised": "^7.1.1",
     "child-process-promise": "^2.2.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "express-joi-validator": "^2.0.0",
     "ignore": "^5.1.4",
     "js-base64": "^2.4.9",
